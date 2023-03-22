@@ -16,7 +16,6 @@
 ## Thanks for free JetBrains Open Source license
 
 [![JetBrains](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)](https://www.jetbrains.com/?from=go-packagist)
-![GoLand](https://resources.jetbrains.com/storage/products/company/brand/logos/GoLand.png)
 
 ## License
 
