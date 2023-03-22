@@ -13,7 +13,7 @@
 | [Youdu](https://github.com/go-packagist/youdu)      | Youdu SDK            | [![Go Version](https://badgen.net/github/release/go-packagist/youdu/stable)](https://github.com/go-packagist/youdu/releases)     | [![GoDoc](https://pkg.go.dev/badge/github.com/go-packagist/youdu)](https://pkg.go.dev/github.com/go-packagist/youdu)     | -                                                                                                                                                   | -                                                                                                                                                        | [![Go Report Card](https://goreportcard.com/badge/github.com/go-packagist/youdu)](https://goreportcard.com/report/github.com/go-packagist/youdu)     |
 
 
-## Sponsor
+## Thanks for free JetBrains Open Source license
 
 [![JetBrains Logo (Main) logo](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)](https://www.jetbrains.com/?from=go-packagist)
 
